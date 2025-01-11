@@ -44,7 +44,7 @@ Midjourney：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
+- Imagens utilizadas em `https://www.midjourney.com/jobs/6456de1b-1324-46ee-88be-cac6eca7da3c?index=0`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
