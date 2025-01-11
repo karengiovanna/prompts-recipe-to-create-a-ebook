@@ -1,4 +1,4 @@
-<img src="https://cdn.midjourney.com/1b3eaac4-c3d8-4108-8be1-2264b4379b5e/0_1.png" alt="Descrição da imagem" style="width:30%;">
+![Descrição da imagem](https://cdn.midjourney.com/1b3eaac4-c3d8-4108-8be1-2264b4379b5e/0_1.png)
 
 # Projeto EBOOK Gerado por I.A.s
 
