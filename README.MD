@@ -1,7 +1,4 @@
-![Descrição da imagem](https://example.com/imagem.jpg)
-
-<!-- Usando HTML para redimensionar -->
-<img src="(https://cdn.midjourney.com/1b3eaac4-c3d8-4108-8be1-2264b4379b5e/0_1.png" alt="Descrição da imagem" style="width:30%;">
+<img src="https://cdn.midjourney.com/1b3eaac4-c3d8-4108-8be1-2264b4379b5e/0_1.png" alt="Descrição da imagem" style="width:30%;">
 
 # Projeto EBOOK Gerado por I.A.s
 
@@ -27,7 +24,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre quais metas terei no ano de 2025, o ebookk é vai tratar do meu desejo de viajar para o Egito, diminuir percentual de gordura corporal, aumentar massa magra, o título deve ser épico e curto, e tenha uma temática de Egito no título, me liste 5 variações de títulos                                                         |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo |Me liste as metas que devo ter em janeiro para alcançar o objetivo de viajar para o Egito, diminuir percentual de gordura corporal, aumentar massa magra em 2025 {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 Títulos propostos pelo ChatGPT:
 "Missão Nilo 2025: Transformação e Descobertas"
@@ -40,9 +37,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | 
-1d
-close up of a beautiful blonde woman at a dining table with a large group at a projection mapped table themed around space travel, plain black walls in the background, purple lighting, editorial photography |
+| título | close up of a beautiful blonde woman at a dining table with a large group at a projection mapped table themed around space travel, plain black walls in the background, purple lighting, editorial photography |
 
 ## ✨ Features
 
